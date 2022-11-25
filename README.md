@@ -17,3 +17,6 @@ Python power_grid_important_node.py
 
 ## 引用
 [[1]谭跃进, 吴俊, 邓宏钟. 复杂网络中节点重要度评估的节点收缩方法[J]. 系统工程理论与实践, 2006, 26(11):6.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2006&filename=XTLL200611010&uniplatform=NZKPT&v=K9oE_QYdakI9JCrWvd1Xy9TBg16oDlheIp0FDwvyU6dCxlriWTByjEVs6EWU7JVn)
+
+## 博客地址
+[论文复现：《复杂网络中节点重要度评估的节点收缩方法》](https://blog.csdn.net/qq_30414349/article/details/124202678)
